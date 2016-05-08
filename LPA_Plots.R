@@ -9,9 +9,9 @@ library(grid)
 
 install.packages("ggrepel")
 
-setwd("./Google Drive/Papers/LPA Paper/XTREC LCA FINAL")
+setwd("./Documents/Data/Latent_Profile_Analysis")
 
-setwd("C:/Users/kom741/Google Drive/Papers/LPA Paper/XTREC LCA FINAL")
+setwd("C:/Users/kom741/Documents/Data/Latent_Profile_Analysis")
 
 LPA_full <- read.csv("LPA_FINAL_12182015_VARS_ADDED.csv")
 str(LPA_full)
